@@ -18,6 +18,7 @@ import com.model.UserPojo;
 @WebServlet("/Register")
 public class Register extends HttpServlet {
 	String data,thiru;
+	String sp;
 	private static final long serialVersionUID = 1L;
        
     /**
